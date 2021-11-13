@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @abdulrahim2002
+- 👀 I’m interested in TECHNOLOGY
+- 🌱 I’m currently learning C/C++, PYTHON.
+- 💞️ I’m looking to collaborate on ANYTHING
+- 📫 How to reach me ->Email: co20301@ccet.ac.in
