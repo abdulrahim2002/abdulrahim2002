@@ -2,5 +2,5 @@
 - 👀 I’m interested in Game developement, blockchain, ai, networking
 - 🌱 I’m know C/C++, python, C#, Unity Engine
 - 💞️ I’m looking to collaborate on ANYTHING
-- 📫 How to reach me ->Email: co20301@ccet.ac.in
+- 📫 How to reach me ->Email: abdulrahimhere[at]yahoo.com
 - Website: https://www.thinkersclub.tech
