@@ -1,3 +1,2 @@
 - Website: www.thinkersclub.tech
-- Find me on [_lkml (Linux Kernel Mailing List)_](https://lore.kernel.org/lkml/?q=abdul.rahim%40myyahoo.com)
 - Reach out: abdul.rahim@myyahoo.com
