@@ -1,2 +1,2 @@
-- Website: www.thinkersclub.tech
+- Website: abdulrahim.space
 - Reach out: abdul.rahim@myyahoo.com
