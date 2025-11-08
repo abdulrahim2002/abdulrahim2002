@@ -1,3 +1,3 @@
 - Website: [abdulrahim.space](https://abdulrahim.space)
 
-- Reach out: abdul.rahim@myyahoo.com
+- Reach out: abdulrahimhere[at]yahoo.com
